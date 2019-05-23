@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "171894112463",
+    "firebase_url": "https://chat-application-a2ed2.firebaseio.com",
+    "project_id": "chat-application-a2ed2",
+    "storage_bucket": "chat-application-a2ed2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171894112463:android:11136e75bc04c07c",
+        "android_client_info": {
+          "package_name": "com.nexshore.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171894112463-aqime3fhfqa7s7fadathuj51e4f6n6ju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nexshore.chatapp",
+            "certificate_hash": "6934be646c74c97318ca04dfaee01e9341d7b882"
+          }
+        },
+        {
+          "client_id": "171894112463-oo3tgqldea2p9ok2gcptllcd503i103a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiP0wbrtOYvGLJDU1imHvJxN6LisWOsXU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171894112463-oo3tgqldea2p9ok2gcptllcd503i103a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
